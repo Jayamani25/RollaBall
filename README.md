@@ -44,11 +44,7 @@ Copy the PlayerController and drag to Script folder
 Double click the PlayerController file and type the coding
 
 ## Program:
-```
-Developed by :DHARSHAN V
-Register No: 212222230031
-```
-```
+```C#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -98,15 +94,6 @@ public class Program : MonoBehaviour
 ## Output:
 
 ![Screenshot 2023-10-16 205346](https://github.com/Dharshan011/RollaBall/assets/113497491/12e89daf-0cbf-40ba-ab0c-d2f74d52458a)
-
-
-![Screenshot 2023-10-16 205400](https://github.com/Dharshan011/RollaBall/assets/113497491/12999f7e-145a-4021-9947-0116320baa0b)
-
-
-
-
-
-
 
 ## Result:
 Thus, The 3D application for Roll the Ball in unity is developed successfully.
